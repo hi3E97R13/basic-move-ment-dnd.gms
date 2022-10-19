@@ -2,9 +2,9 @@
   "resources": [
     {"id":{"name":"speggbert","path":"objects/speggbert/speggbert.yy",},"order":0,},
     {"id":{"name":"block","path":"objects/block/block.yy",},"order":2,},
-    {"id":{"name":"eggbert","path":"sprites/eggbert/eggbert.yy",},"order":14,},
-    {"id":{"name":"b","path":"sprites/b/b.yy",},"order":15,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"eggbert","path":"sprites/eggbert/eggbert.yy",},"order":0,},
+    {"id":{"name":"b","path":"sprites/b/b.yy",},"order":1,},
+    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
   "Options": [
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
@@ -21,7 +21,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
