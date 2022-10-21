@@ -16,5 +16,5 @@ image_yscale = 1;
 /// @DnDVersion : 1
 /// @DnDHash : 44D0827E
 /// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "lewlak"
-lewlak = 1;
+/// @DnDArgument : "var" "lewalk"
+lewalk = 1;
